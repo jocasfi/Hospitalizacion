@@ -15,3 +15,20 @@ G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Dominio.dll
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.csproj.CopyComplete
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.deps.json
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.runtimeconfig.json
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.dll
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.pdb
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Dominio.dll
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.csproj.CopyComplete
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.dll
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\refint\HospiEnCasa.App.Persistencia.dll
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.pdb
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.genruntimeconfig.cache
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\ref\HospiEnCasa.App.Persistencia.dll

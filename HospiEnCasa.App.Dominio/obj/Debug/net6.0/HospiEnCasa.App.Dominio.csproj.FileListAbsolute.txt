@@ -10,3 +10,15 @@ G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net6.0\refint\HospiEnCasa.App.Dominio.dll
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net6.0\ref\HospiEnCasa.App.Dominio.dll
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\bin\Debug\net6.0\HospiEnCasa.App.Dominio.deps.json
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\bin\Debug\net6.0\HospiEnCasa.App.Dominio.dll
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\bin\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.dll
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\refint\HospiEnCasa.App.Dominio.dll
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
+C:\Users\dacg8\OneDrive\Documentos\UNIVERSIDAD\PROGRAMACIÓN MINTIC\CICLO 3\Repositorio\HospiEnCasa_2.App\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\ref\HospiEnCasa.App.Dominio.dll

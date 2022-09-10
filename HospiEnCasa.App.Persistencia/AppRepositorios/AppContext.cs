@@ -19,7 +19,7 @@ namespace HospiEnCasa.App.Persistencia
             if( !optionsBuilder.IsConfigured )
             {
                 //Configueramos la cadena de conexion a la BDs
-                optionsBuilder.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = HospiEnCasaData");
+                optionsBuilder.UseSqlServer("Data Source = (localdb)\\SQLEXPRESS; Initial Catalog = HospiEnCasaData");
             }
         }
             

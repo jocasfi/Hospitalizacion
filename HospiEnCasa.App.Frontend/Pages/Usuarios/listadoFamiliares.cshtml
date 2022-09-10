@@ -1,0 +1,45 @@
+﻿@page
+@model HospiEnCasa.App.Frontend.Pages.listadoFamiliaresModel
+@{
+    ViewData["Title"] = "Listado Familiares";
+}
+
+<form method="POST">
+
+<p class="h5 display-5">Familiares</p>
+
+<div class="crear">
+  <a class="btn btn-success" asp-page="CrearFamiliar">Crear Familiar</a>
+</div>
+<br>
+<div class="table-responsive">
+  <table class="table table-dark table-striped table-hover table-bordered border-primary">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Apellido</th>
+        <th scope="col">Email</th>
+        <th scope="col">Teléfono</th>
+        <th scope="col">Paciente</th>
+        <th scope="col" colspan="3" class="text-center">Opciones</th>
+      </tr>
+    </thead>
+    <tbody>
+      @foreach (var familiar in Model.ListaFamiliares)
+      {
+        <tr>
+          <th scope="row">@familiar.Id</th>
+          <td>@familiar.Nombre</td>
+          <td>@familiar.Apellidos</td>
+          <td>@familiar.Email</td>
+          <td>@familiar.NumeroTelefono</td>
+          <td>@familiar.PacienteId</td>
+          <td>
+        </tr>
+
+      }
+    </tbody>
+  </table>
+</div>
+</form>

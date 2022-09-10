@@ -2007,19 +2007,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\dacg8\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\dacg8\\OneDrive\\Documentos\\UNIVERSIDAD\\PROGRAMACIÓN MINTIC\\CICLO 3\\Repositorio\\HospiEnCasa_2.App\\Hospitalizacion\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
       "projectName": "HospiEnCasa.App.Consola",
-      "projectPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\obj\\",
+      "projectPath": "C:\\Users\\dacg8\\OneDrive\\Documentos\\UNIVERSIDAD\\PROGRAMACIÓN MINTIC\\CICLO 3\\Repositorio\\HospiEnCasa_2.App\\Hospitalizacion\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\dacg8\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dacg8\\OneDrive\\Documentos\\UNIVERSIDAD\\PROGRAMACIÓN MINTIC\\CICLO 3\\Repositorio\\HospiEnCasa_2.App\\Hospitalizacion\\HospiEnCasa.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dacg8\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2031,11 +2031,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
-              "projectPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj"
+            "C:\\Users\\dacg8\\OneDrive\\Documentos\\UNIVERSIDAD\\PROGRAMACIÓN MINTIC\\CICLO 3\\Repositorio\\HospiEnCasa_2.App\\Hospitalizacion\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\dacg8\\OneDrive\\Documentos\\UNIVERSIDAD\\PROGRAMACIÓN MINTIC\\CICLO 3\\Repositorio\\HospiEnCasa_2.App\\Hospitalizacion\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj"
             },
-            "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {
-              "projectPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj"
+            "C:\\Users\\dacg8\\OneDrive\\Documentos\\UNIVERSIDAD\\PROGRAMACIÓN MINTIC\\CICLO 3\\Repositorio\\HospiEnCasa_2.App\\Hospitalizacion\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\dacg8\\OneDrive\\Documentos\\UNIVERSIDAD\\PROGRAMACIÓN MINTIC\\CICLO 3\\Repositorio\\HospiEnCasa_2.App\\Hospitalizacion\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj"
             }
           }
         }
