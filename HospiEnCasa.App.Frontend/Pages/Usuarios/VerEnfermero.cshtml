@@ -1,0 +1,48 @@
+﻿@page
+@model HospiEnCasa.App.Frontend.Pages.VerEnfermeroModel
+@{
+    ViewData["Title"] = "Ver Enfermero";
+}
+
+<h1>Informacion del Enfermero</h1>
+<p>
+<a asp-page="./ListadoEnfermeros">Listado de Enfermeros</a>
+</p>
+
+<form method="POST">
+    <div class="card mb-3" style="max-width: 540px;">
+        <div class="row g-0">
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-body">
+                        <label for="nombre">Nombre: </label>
+                        <label for="enfermero">@Model.Enfermero.Nombre</label>
+                    </h5>
+                    <h5 class="card-body">
+                        <label for="nombre">Apellidos: </label>
+                        <label for="enfermero">@Model.Enfermero.Apellidos</label>
+                        @*<label asp-for="Enfermero.Apellidos" class="control-label"></label>
+                        <input type="text" asp-for="Enfermero.Apellidos" class="form-control" readonly/>*@
+                    </h5>
+                    <h5 class="card-body">
+                        <label for="nombre">Telefono: </label>
+                        <label for="numeroTelefono">@Model.Enfermero.NumeroTelefono</label>
+                    </h5>
+                    <h5 class="card-body">
+                        <label for="nombre">Genero: </label>
+                        <label for="genero">@Model.Enfermero.Genero</label>
+                    </h5>
+                    <h5 class="card-body">
+                        <label for="nombre">No Tarjeta Profesional: </label>
+                        <label for="tarjetaProfesional">@Model.Enfermero.TarjetaProfesional</label>
+                    </h5>
+                    <h5 class="card-body">
+                        <label for="nombre">Horas Laborales: </label>
+                        <label for="horasLaborales">@Model.Enfermero.HorasLaborales</label>
+                    </h5>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</form>

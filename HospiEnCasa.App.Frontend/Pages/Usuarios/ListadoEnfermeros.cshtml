@@ -1,0 +1,44 @@
+﻿@page
+@model HospiEnCasa.App.Frontend.Pages.ListadoEnfermerosModel
+@{
+    //Codigo C#
+    ViewData["Title"] = "Enfermeros";
+}
+
+<h1>Listado de Enfermeros</h1>
+<hr>
+<a asp-page="CrearEnfermero">Crear Enfermero</a>
+<br>
+<form method="POST">
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellidos</th>
+                <th scope="col">NumeroTelefono</th>
+                <th scope="col">Genero</th>
+                <th scope="col">TarjetaProfesional</th>
+                <th scope="col">HorasLaborales</th>
+                <th scope="col" colspan="3">Opciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var enfermero in Model.Enfermeros)
+            {
+                <tr>                    
+                    <td scope="row">@enfermero.Id</td>
+                    <td>@enfermero.Nombre</td>
+                    <td>@enfermero.Apellidos</td>
+                    <td>@enfermero.NumeroTelefono</td>
+                    <td>@enfermero.Genero</td>
+                    <td>@enfermero.TarjetaProfesional</td>
+                    <td>@enfermero.HorasLaborales</td>
+                    <td><a asp-page="./EditarEnfermero" asp-route-id="@enfermero.Id">Editar</a></td>
+                    <td><a asp-page="./VerEnfermero" asp-route-id="@enfermero.Id">Detalle</a></td>
+                    <td><a asp-page="./EliminarEnfermero" asp-route-id="@enfermero.Id">Eliminar</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>

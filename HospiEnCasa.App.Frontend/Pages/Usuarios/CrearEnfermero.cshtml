@@ -1,0 +1,43 @@
+﻿@page
+@model HospiEnCasa.App.Frontend.Pages.CrearEnfermeroModel
+@{
+    ViewData["Title"] = "Crear Enfermero";
+}
+
+<h1>Crear Enfermero</h1>
+<h4>@ViewData["Error"]</h4>
+
+<form method="POST">
+    <div asp-validation-summary="ModelOnly" class="text-danger" ></div> 
+    <div class="mb-3">
+        <label asp-for="Enfermero.Nombre" class="form-label">Nombre</label>
+        <input type="text" asp-for="Enfermero.Nombre" class="form-control" id="txtNombre">
+        <span asp-validation-for="Enfermero.Nombre" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Enfermero.Apellidos" class="form-label">Apellidos</label>
+        <input type="text" asp-for="Enfermero.Apellidos" class="form-control" id="txtApellidos">
+        <span asp-validation-for="Enfermero.Apellidos" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Enfermero.NumeroTelefono" class="form-label">NumeroTelefono</label>
+        <input type="text" asp-for="Enfermero.NumeroTelefono" class="form-control" id="txtNumeroTelefono">
+        <span asp-validation-for="Enfermero.NumeroTelefono" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Enfermero.Genero" class="form-label">Genero</label>
+        <input type="text" asp-for="Enfermero.Genero" class="form-control" id="txtGenero">
+        <span asp-validation-for="Enfermero.Genero" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Enfermero.TarjetaProfesional" class="form-label">TarjetaProfesional</label>
+        <input type="text" asp-for="Enfermero.TarjetaProfesional" class="form-control" id="txtTarjetaProfesional">
+        <span asp-validation-for="Enfermero.TarjetaProfesional" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Enfermero.HorasLaborales" class="form-label">ApelHorasLaboraleslidos</label>
+        <input type="text" asp-for="Enfermero.HorasLaborales" class="form-control" id="txtHorasLaborales">
+        <span asp-validation-for="Enfermero.HorasLaborales" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
