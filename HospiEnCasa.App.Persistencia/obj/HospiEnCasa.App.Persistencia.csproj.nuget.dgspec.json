@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {}
+    "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {}
   },
   "projects": {
-    "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
+    "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
+        "projectUniqueName": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
         "projectName": "HospiEnCasa.App.Dominio",
-        "projectPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\obj\\",
+        "projectPath": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,30 +64,37 @@
         }
       }
     },
-    "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {
+    "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
         "projectName": "HospiEnCasa.App.Persistencia",
-        "projectPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\obj\\",
+        "projectPath": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
-                "projectPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj"
+              "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
+                "projectPath": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj"
               }
             }
           }

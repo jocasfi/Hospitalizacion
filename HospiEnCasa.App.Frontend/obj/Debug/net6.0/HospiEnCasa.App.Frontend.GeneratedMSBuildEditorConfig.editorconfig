@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HospiEnCasa.App.Frontend
+build_property.RootNamespace = HospiEnCasa.App.Frontend
+build_property.ProjectDir = C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Frontend\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Frontend
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Pacientes/CrearPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcUGFjaWVudGVzXENyZWFyUGFjaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Pacientes/EditarPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcUGFjaWVudGVzXEVkaXRhclBhY2llbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Pacientes/EliminarPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcUGFjaWVudGVzXEVsaW1pbmFyUGFjaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Pacientes/ListadoPacientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcUGFjaWVudGVzXExpc3RhZG9QYWNpZW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Pacientes/VerPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcUGFjaWVudGVzXFZlclBhY2llbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vknwb4m9cw

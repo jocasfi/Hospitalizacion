@@ -10,3 +10,15 @@ G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net6.0\refint\HospiEnCasa.App.Dominio.dll
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net6.0\ref\HospiEnCasa.App.Dominio.dll
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\bin\Debug\net6.0\HospiEnCasa.App.Dominio.deps.json
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\bin\Debug\net6.0\HospiEnCasa.App.Dominio.dll
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\bin\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.csproj.AssemblyReference.cache
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.dll
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\refint\HospiEnCasa.App.Dominio.dll
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
+C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Dominio\obj\Debug\net6.0\ref\HospiEnCasa.App.Dominio.dll

@@ -17,8 +17,8 @@ public class Program
     {
         Console.WriteLine("Hola Mundo .NET Hospital en Casa!");
         
-        BuscarPaciente();
-        VerListadoPacientes();
+        // BuscarPaciente();
+        // VerListadoPacientes();
         /*AdicionarEnfermero();
         AdicionarMedico();
         AdicionarAuxiliar();

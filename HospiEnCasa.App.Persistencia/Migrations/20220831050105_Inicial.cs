@@ -86,19 +86,19 @@ namespace HospiEnCasa.App.Persistencia.Migrations
                         column: x => x.AuxiliarHospitalId,
                         principalTable: "AuxiliarHospital",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.NoAction);
                     table.ForeignKey(
                         name: "FK_Pacientes_Enfermeros_EnfermeroId",
                         column: x => x.EnfermeroId,
                         principalTable: "Enfermeros",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.NoAction);
                     table.ForeignKey(
                         name: "FK_Pacientes_Medicos_MedicoId",
                         column: x => x.MedicoId,
                         principalTable: "Medicos",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.NoAction);
                 });
 
             migrationBuilder.CreateTable(
@@ -145,7 +145,7 @@ namespace HospiEnCasa.App.Persistencia.Migrations
                         column: x => x.MedicoId,
                         principalTable: "Medicos",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.NoAction);
                     table.ForeignKey(
                         name: "FK_HistoriasClinicas_Pacientes_PacienteId",
                         column: x => x.PacienteId,
