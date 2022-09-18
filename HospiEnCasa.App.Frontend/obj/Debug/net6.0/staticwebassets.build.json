@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "byL6tX0NeQGL1FfW5+JOi3snos+8lvkAElKGHLjOmQw=",
+  "Hash": "vW/N7+O25LttnxwxIdsgM/95yx1j4wOZ5QYvjUMMTi4=",
   "Source": "HospiEnCasa.App.Frontend",
   "BasePath": "_content/HospiEnCasa.App.Frontend",
   "Mode": "Default",
@@ -306,23 +306,6 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\heart-rate.png"
     },
     {
-      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-1.jpeg",
-      "SourceId": "HospiEnCasa.App.Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\",
-      "BasePath": "_content/HospiEnCasa.App.Frontend",
-      "RelativePath": "imagenes/img-1.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\img-1.jpeg"
-    },
-    {
       "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-10.jpeg",
       "SourceId": "HospiEnCasa.App.Frontend",
       "SourceType": "Discovered",
@@ -340,12 +323,12 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\img-10.jpeg"
     },
     {
-      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-2.jpeg",
+      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-1b.jpeg",
       "SourceId": "HospiEnCasa.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HospiEnCasa.App.Frontend",
-      "RelativePath": "imagenes/img-2.jpeg",
+      "RelativePath": "imagenes/img-1b.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\img-2.jpeg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\img-1b.jpeg"
     },
     {
-      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-3.jpeg",
+      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-2b.jpeg",
       "SourceId": "HospiEnCasa.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HospiEnCasa.App.Frontend",
-      "RelativePath": "imagenes/img-3.jpeg",
+      "RelativePath": "imagenes/img-2b.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\img-3.jpeg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\img-2b.jpeg"
     },
     {
-      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-4.jpeg",
+      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-3b.jpg",
       "SourceId": "HospiEnCasa.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HospiEnCasa.App.Frontend",
-      "RelativePath": "imagenes/img-4.jpeg",
+      "RelativePath": "imagenes/img-3b.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\img-4.jpeg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\img-3b.jpg"
     },
     {
-      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-5.jpeg",
+      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-4b.jpeg",
       "SourceId": "HospiEnCasa.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HospiEnCasa.App.Frontend",
-      "RelativePath": "imagenes/img-5.jpeg",
+      "RelativePath": "imagenes/img-4b.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\img-5.jpeg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\img-4b.jpeg"
     },
     {
-      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-6.jpeg",
+      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-5b.jpg",
       "SourceId": "HospiEnCasa.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HospiEnCasa.App.Frontend",
-      "RelativePath": "imagenes/img-6.jpeg",
+      "RelativePath": "imagenes/img-5b.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\img-6.jpeg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\img-5b.jpg"
     },
     {
-      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-7.jpeg",
+      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-6b.jpg",
       "SourceId": "HospiEnCasa.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HospiEnCasa.App.Frontend",
-      "RelativePath": "imagenes/img-7.jpeg",
+      "RelativePath": "imagenes/img-6b.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\img-7.jpeg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\img-6b.jpg"
     },
     {
-      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-8.jpeg",
+      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-7b.jpg",
       "SourceId": "HospiEnCasa.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HospiEnCasa.App.Frontend",
-      "RelativePath": "imagenes/img-8.jpeg",
+      "RelativePath": "imagenes/img-7b.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,7 +439,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\img-8.jpeg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\img-7b.jpg"
+    },
+    {
+      "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-8b.jpg",
+      "SourceId": "HospiEnCasa.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/HospiEnCasa.App.Frontend",
+      "RelativePath": "imagenes/img-8b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\img-8b.jpg"
     },
     {
       "Identity": "C:\\_UdCaldas\\Ciclo-3\\App-Web\\Reto-5\\Hospitalizacion\\HospiEnCasa.App.Frontend\\wwwroot\\imagenes\\img-9.jpeg",

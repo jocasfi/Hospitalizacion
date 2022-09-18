@@ -16,9 +16,6 @@ namespace HospiEnCasa.App.Frontend.Pages
         [BindProperty]
         public Paciente Paciente { get; set; }
 
-        // Constructor de la clase
-        public EditarPacienteModel()
-        {}
         public ActionResult OnGet(int Id)
         {
             this.Paciente = _repositorioPaciente.GetPaciente(Id);

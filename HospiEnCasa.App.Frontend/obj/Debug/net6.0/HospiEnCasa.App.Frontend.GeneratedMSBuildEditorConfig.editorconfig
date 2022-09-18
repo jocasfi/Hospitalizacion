@@ -15,8 +15,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\_UdCaldas\Ciclo-3\App-Web\Reto-5\Hospitalizacion\HospiEnCasa.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Enfermeros/CrearEnfermero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcRW5mZXJtZXJvc1xDcmVhckVuZmVybWVyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Enfermeros/EditarEnfermero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcRW5mZXJtZXJvc1xFZGl0YXJFbmZlcm1lcm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Enfermeros/EliminarEnfermero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcRW5mZXJtZXJvc1xFbGltaW5hckVuZmVybWVyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Enfermeros/ListadoEnfermeros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcRW5mZXJtZXJvc1xMaXN0YWRvRW5mZXJtZXJvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Enfermeros/VerEnfermero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcRW5mZXJtZXJvc1xWZXJFbmZlcm1lcm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Pacientes/CrearPaciente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcUGFjaWVudGVzXENyZWFyUGFjaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Pacientes/EditarPaciente-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcUGFjaWVudGVzXEVkaXRhclBhY2llbnRlLTIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/_UdCaldas/Ciclo-3/App-Web/Reto-5/Hospitalizacion/HospiEnCasa.App.Frontend/Pages/Datos/Pacientes/EditarPaciente.cshtml]
