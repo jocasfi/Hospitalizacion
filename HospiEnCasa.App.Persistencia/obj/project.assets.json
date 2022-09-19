@@ -2025,19 +2025,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\sixto rv\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
+      "projectUniqueName": "D:\\Cursos\\UniversidadCaldas\\FundamentoProgramacion\\Ciclo3\\Proyectos\\Hopistalizacion\\Clonado\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
       "projectName": "HospiEnCasa.App.Persistencia",
-      "projectPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\obj\\",
+      "projectPath": "D:\\Cursos\\UniversidadCaldas\\FundamentoProgramacion\\Ciclo3\\Proyectos\\Hopistalizacion\\Clonado\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\sixto rv\\.nuget\\packages\\",
+      "outputPath": "D:\\Cursos\\UniversidadCaldas\\FundamentoProgramacion\\Ciclo3\\Proyectos\\Hopistalizacion\\Clonado\\HospiEnCasa.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sixto rv\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2049,8 +2049,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
-              "projectPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj"
+            "D:\\Cursos\\UniversidadCaldas\\FundamentoProgramacion\\Ciclo3\\Proyectos\\Hopistalizacion\\Clonado\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
+              "projectPath": "D:\\Cursos\\UniversidadCaldas\\FundamentoProgramacion\\Ciclo3\\Proyectos\\Hopistalizacion\\Clonado\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj"
             }
           }
         }

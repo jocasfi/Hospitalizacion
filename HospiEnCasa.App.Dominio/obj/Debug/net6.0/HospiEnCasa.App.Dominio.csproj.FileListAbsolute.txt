@@ -10,3 +10,15 @@ G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net6.0\refint\HospiEnCasa.App.Dominio.dll
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
 G:\Mision TIC Ministerio\Ciclo3\Desarrollo Software\ProyectoHosCasa\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net6.0\ref\HospiEnCasa.App.Dominio.dll
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\bin\Debug\net6.0\HospiEnCasa.App.Dominio.deps.json
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\bin\Debug\net6.0\HospiEnCasa.App.Dominio.dll
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\bin\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.csproj.AssemblyReference.cache
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.dll
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\obj\Debug\net6.0\refint\HospiEnCasa.App.Dominio.dll
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\obj\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
+D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\clonado\HospiEnCasa.App.Dominio\obj\Debug\net6.0\ref\HospiEnCasa.App.Dominio.dll

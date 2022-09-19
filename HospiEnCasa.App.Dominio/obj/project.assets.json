@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\sixto rv\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
+      "projectUniqueName": "D:\\Cursos\\UniversidadCaldas\\FundamentoProgramacion\\Ciclo3\\Proyectos\\Hopistalizacion\\clonado\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
       "projectName": "HospiEnCasa.App.Dominio",
-      "projectPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "G:\\Mision TIC Ministerio\\Ciclo3\\Desarrollo Software\\ProyectoHosCasa\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\obj\\",
+      "projectPath": "D:\\Cursos\\UniversidadCaldas\\FundamentoProgramacion\\Ciclo3\\Proyectos\\Hopistalizacion\\clonado\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\sixto rv\\.nuget\\packages\\",
+      "outputPath": "D:\\Cursos\\UniversidadCaldas\\FundamentoProgramacion\\Ciclo3\\Proyectos\\Hopistalizacion\\clonado\\HospiEnCasa.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sixto rv\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
