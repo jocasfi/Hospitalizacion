@@ -32,11 +32,16 @@
       <label for="floatingInput" class="ms-2" asp-for="Enfermero.NumeroTelefono" >NumeroTelefono</label>
       <span asp-validation-for="Enfermero.NumeroTelefono" class="text-danger"></span>
     </div>
+    
     <div class="form-floating mb-3 col-6">
-      <input type="text" asp-for="Enfermero.Genero" class="form-control" id="floatingInput" >
-      <label for="floatingInput" class="ms-2" asp-for="Enfermero.Genero" >Genero</label>
-      <span asp-validation-for="Enfermero.Genero" class="text-danger"></span>
+      <select asp-for="Enfermero.Genero" class="form-select" id="Genero">
+        <option selected disabled value="">Seleccione...</option>
+        <option>Masculino</option>
+        <option>Femenino</option>
+      </select>
+      <label class="form-label ms-2">Genero</label>
     </div>
+
     <div class="form-floating mb-3 col-6">
       <input type="text" asp-for="Enfermero.TarjetaProfesional" class="form-control" id="floatingInput">
       <label for="floatingInput" class="ms-2" asp-for="Enfermero.TarjetaProfesional" >TarjetaProfesional</label>

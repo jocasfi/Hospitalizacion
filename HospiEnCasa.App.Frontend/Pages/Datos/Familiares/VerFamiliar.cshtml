@@ -1,0 +1,20 @@
+﻿@page
+@model HospiEnCasa.App.Frontend.Pages.VerFamiliarModel
+@{
+}
+
+<div class="row col-10 offset-4">
+  <div class="card shadow p-3 mb-5 rounded" style="width:30rem">
+    <img class="card-img-top img-thumbnail img-fluid" src="~/imagenes/Familiar.png" alt="Card image">
+    <div class="card-body">
+      <h4 class="card-title mb-4"><b>Información del Familiar</b></h4>
+      <p class="card-text"><b>Nombre : </b> @Model.Familiar.Nombre</p>
+      <p class="card-text"><b>Apellidos : </b> @Model.Familiar.Apellidos</p>
+      <p class="card-text"><b>Género : </b> @Model.Familiar.Genero</p>
+      <p class="card-text"><b>Teléfono : </b> @Model.Familiar.NumeroTelefono</p>
+      <p class="card-text"><b>Parentesco : </b> @Model.Familiar.Parentesco</p>
+
+      <a class="btn btn-outline-info" asp-page="ListadoFamiliares">Regresar al Listado</a>
+    </div>
+  </div>
+</div>

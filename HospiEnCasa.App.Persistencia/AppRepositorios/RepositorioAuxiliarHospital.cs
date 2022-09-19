@@ -3,41 +3,46 @@ using HospiEnCasa.App.Dominio;
 
 namespace HospiEnCasa.App.Persistencia
 {
-    public class RepositorioAuxiliar : IRepositorioAuxiliar
+    public class RepositorioAuxiliarHospital : IRepositorioAuxiliarHospital
     {
-        // Conectar a BDs
+        // Conectar
         private readonly AppContext _appContext;
-        //Contructor
-        public RepositorioAuxiliar(AppContext appContext)
+
+        // Constructor
+        public RepositorioAuxiliarHospital(AppContext appContext)
         {
             this._appContext = appContext;
         }
 
-        public AuxiliarHospital AddAuxiliar(AuxiliarHospital auxiliarHospital)
+        public AuxiliarHospital
+        AddAuxiliarHospital(AuxiliarHospital auxiliarHospital)
         {
-            //Configuramos el ambiente para adiccion de auxiliar
-            var auxiliarAdicionado = this._appContext.AuxiliarHospital.Add(auxiliarHospital);
-            //Guardar info auxiliar en BDs
+            //Configuramos ambiente para adicion del auxiliar
+            var auxiliarHospitalAdicionado =
+                this._appContext.AuxiliarHospital.Add(auxiliarHospital);
+
+            //Guardamos info auxiliar en la BDs
             this._appContext.SaveChanges();
 
-            return auxiliarAdicionado.Entity;
+            return auxiliarHospitalAdicionado.Entity;
         }
 
-        public void DeleteAuxiliar(int idAuxiliar)
+        public void DeleteAuxiliarHospital(int idAuxiliar)
         {
             //Configuramos el ambiente para adiccion de auxiliar
             var auxiliarEliminar =
-                this._appContext.AuxiliarHospital
+                this
+                    ._appContext
+                    .AuxiliarHospital
                     .FirstOrDefault(a => a.Id == idAuxiliar);
 
-            if( auxiliarEliminar != null )      
+            if (auxiliarEliminar != null)
             {
                 this._appContext.AuxiliarHospital.Remove(auxiliarEliminar);
                 this._appContext.SaveChanges();
             }
         }
-
-        public AuxiliarHospital GetAuxiliar(int idAuxiliar)
+        public AuxiliarHospital GetAuxiliarHospital(int idAuxiliar)
         {
             return
                 this._appContext.AuxiliarHospital
@@ -45,12 +50,12 @@ namespace HospiEnCasa.App.Persistencia
                         .SingleOrDefault<AuxiliarHospital>();
         }
 
-        public IEnumerable<AuxiliarHospital> GetAllAuxiliar()
+        public IEnumerable<AuxiliarHospital> GetAllAuxiliarHospital()
         {
             return this._appContext.AuxiliarHospital;
         }
 
-        public AuxiliarHospital UpdateAuxiliar(AuxiliarHospital auxiliarHospital)
+        public AuxiliarHospital UpdateAuxiliarHospital(AuxiliarHospital auxiliarHospital)
         {
             var auxiliarEncontrado =
                 this._appContext.AuxiliarHospital

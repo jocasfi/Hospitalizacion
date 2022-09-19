@@ -1,0 +1,72 @@
+﻿@page
+@model HospiEnCasa.App.Frontend.Pages.EditarFamiliarModel
+@{
+}
+
+<div class="shadow p-3 mb-5 rounded col-7 offset-md-3 bg-white" id="Formulario">
+  <p class="h6 display-6 mb-3 text-center text-primary fw-bold">Editar Familiar
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-person-check-fill"
+      viewBox="0 0 16 16">
+      <path fill-rule="evenodd"
+        d="M15.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 0 1 .708-.708L12.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z" />
+      <path d="M1 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
+    </svg>
+  </p>
+
+  <form class="row form-floating mb-3 col-12 ps-5" method="POST">
+    <input type="hidden" asp-for="Familiar.Id" />
+    <div class="form-floating mb-3 col-6">
+      <input type="text" asp-for="Familiar.Nombre" class="form-control" id="floatingInput" >
+      <label for="floatingInput" class="ms-2" asp-for="Familiar.Nombre">Nombre</label>
+      <span asp-validation-for="Familiar.Nombre" class="text-danger"></span>
+    </div>
+    <div class="form-floating mb-3 col-6">
+      <input type="text" asp-for="Familiar.Apellidos" class="form-control" id="floatingInput">
+      <label for="floatingInput" class="ms-2" asp-for="Familiar.Apellidos" >Apellidos</label>
+      <span asp-validation-for="Familiar.Apellidos" class="text-danger"></span>
+    </div>
+    <div class="form-floating mb-3 col-6">
+      <input type="text" asp-for="Familiar.NumeroTelefono" class="form-control" id="floatingInput" >
+      <label for="floatingInput" class="ms-2" asp-for="Familiar.NumeroTelefono" >NumeroTelefono</label>
+      <span asp-validation-for="Familiar.NumeroTelefono" class="text-danger"></span>
+    </div>
+    <div class="form-floating mb-3 col-6">
+      <select asp-for="Familiar.Genero" class="form-select" id="Genero">
+        <option selected disabled value="">Seleccione...</option>
+        <option>Masculino</option>
+        <option>Femenino</option>
+      </select>
+      <label class="form-label ms-2">Genero</label>
+    </div>
+    
+    <div class="form-floating mb-3 col-6">
+      <select asp-for="Familiar.Parentesco" class="form-select" id="Parentesco">
+        <option selected disabled value="">Seleccione...</option>
+        <option>Padre</option>
+        <option>Madre</option>
+        <option>Hijo</option>
+        <option>Hija</option>
+        <option>Hermano</option>
+        <option>Hermana</option>
+        <option>Tio</option>
+        <option>Tia</option>
+      </select>
+      <label class="form-label ms-2">Parentesco</label>
+    </div>
+
+    <div class="form-floating mb-3 col-6">
+      <input asp-for="Familiar.Email" class="form-control" id="floatingInput" placeholder="email"
+        type="email">
+      <label class="form-label ms-2">Email</label>
+      <span asp-validation-for="Familiar.Email" class="text-danger"></span>
+    </div>
+    
+    <div class="crear">
+      <button type="submit" class="btn btn-primary">Guardar</button>
+      <a class="btn btn-outline-info" asp-page="ListadoFamiliares">Regresar al Listado</a>
+    </div>
+  </form>
+  <div class="error" role="alert">
+    <h5>@ViewData["Error"]</h5>
+  </div>
+</div>

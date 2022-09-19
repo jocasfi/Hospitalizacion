@@ -21,7 +21,6 @@ namespace HospiEnCasa.App.Frontend.Pages
             }catch (System.Exception e)
             {
                 ViewData["Error"] = "Error: " + e.Message;
-                //return RedirectToPage("./ListadoEnfermeros");
             }
             return Page();
         }

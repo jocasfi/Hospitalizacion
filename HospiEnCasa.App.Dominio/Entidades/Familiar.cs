@@ -8,7 +8,7 @@ namespace HospiEnCasa.App.Dominio
         public int Id { get; set; }
         public string Parentesco { get; set; }
         public string Email { get; set; }
-        public int? PacienteId {get; set; }
+        public int PacienteId {get; set; }
         public Paciente Paciente {get; set; }
     }
 }

@@ -1,0 +1,21 @@
+﻿@page
+@model HospiEnCasa.App.Frontend.Pages.VerMedicoModel
+@{
+}
+
+<div class="row col-10 offset-4">
+  <div class="card shadow p-3 mb-5 rounded" style="width:30rem">
+    <img class="card-img-top img-thumbnail img-fluid" src="~/imagenes/Medico.png" alt="Card image">
+    <div class="card-body">
+      <h4 class="card-title mb-4"><b>Información del Médico</b></h4>
+      <p class="card-text"><b>Nombre : </b> @Model.Medico.Nombre</p>
+      <p class="card-text"><b>Apellidos : </b> @Model.Medico.Apellidos</p>
+      <p class="card-text"><b>Género : </b> @Model.Medico.Genero</p>
+      <p class="card-text"><b>Teléfono : </b> @Model.Medico.NumeroTelefono</p>
+      <p class="card-text"><b>Especialidad : </b> @Model.Medico.Especialidad</p>
+      <p class="card-text"><b>RegRethus : </b> @Model.Medico.RegRethus</p>
+
+      <a class="btn btn-outline-info" asp-page="ListadoMedicos">Regresar al Listado</a>
+    </div>
+  </div>
+</div>
