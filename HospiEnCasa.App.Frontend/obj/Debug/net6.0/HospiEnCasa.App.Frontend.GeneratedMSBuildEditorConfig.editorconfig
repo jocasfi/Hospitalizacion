@@ -15,32 +15,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Cursos\UniversidadCaldas\FundamentoProgramacion\Ciclo3\Proyectos\Hopistalizacion\Clonado\HospiEnCasa.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Datos/Medicos/CrearMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcTWVkaWNvc1xDcmVhck1lZGljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Datos/Medicos/EditarMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcTWVkaWNvc1xFZGl0YXJNZWRpY28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Datos/Medicos/EliminarMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcTWVkaWNvc1xFbGltaW5hck1lZGljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Datos/Medicos/ListadoMedicos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcTWVkaWNvc1xMaXN0YWRvTWVkaWNvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Datos/Medicos/VerMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0b3NcTWVkaWNvc1xWZXJNZWRpY28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Medicos/CrearMedico.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNvc1xDcmVhck1lZGljby5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Medicos/EditarMedico.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNvc1xFZGl0YXJNZWRpY28uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Medicos/EliminarMedico.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNvc1xFbGltaW5hck1lZGljby5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Medicos/ListadoMedicos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNvc1xMaXN0YWRvTWVkaWNvcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Medicos/VerMedico.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNvc1xWZXJNZWRpY28uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Cursos/UniversidadCaldas/FundamentoProgramacion/Ciclo3/Proyectos/Hopistalizacion/Clonado/HospiEnCasa.App.Frontend/Pages/Privacy.cshtml]
